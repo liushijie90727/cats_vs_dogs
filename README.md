@@ -1,10 +1,14 @@
 # cats_vs_dogs
 ## file
 - data
-  <1>train: cats and dogs images
+  
+  <1>train: cats and dogs images
+  
   <2>test : testing images
 - logs
+  
   <1>train: Store training model and parameters  
+  
   <2>val:  Store verification model and parameters
 - input_train_val_split.py: input train and verification data
 - model.py: cnn model
