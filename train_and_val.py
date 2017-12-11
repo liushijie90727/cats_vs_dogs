@@ -1,12 +1,3 @@
-#By @Kevin Xu
-#kevin28520@gmail.com
-#Youtube: https://www.youtube.com/channel/UCVCSn4qQXTDAtGWpWAe4Plw
-#
-#The aim of this project is to use TensorFlow to process our own data.
-#    - input_data.py:  read in data and generate batches
-#    - model: build the model architecture
-#    - training: train
-
 # I used Ubuntu with Python 3.5, TensorFlow 1.0*, other OS should also be good.
 # With current settings, 10000 traing steps needed 50 minutes on my laptop.
 
