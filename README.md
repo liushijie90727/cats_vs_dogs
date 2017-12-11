@@ -3,9 +3,9 @@
 
 - data
   
-  <1>train: cats and dogs images
+  >train: cats and dogs images
   
-  <2>test : testing images
+  >test : testing images
 - logs
   
   <1>train: Store training model and parameters  
