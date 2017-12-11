@@ -1,5 +1,5 @@
-# cats_vs_dogs
-## file
+# cat and dog images classification
+## Document Description
 
 - data
   
@@ -15,4 +15,5 @@
 - model.py: cnn model
 - train_and_val.py: training model
 
+## Dataset download address
 [Dataset download address](https://pan.baidu.com/s/1bVFlwy 密码：e0y9)
